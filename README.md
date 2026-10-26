@@ -1,26 +1,27 @@
 <div align="center">
 
-  <img src="https://github.com/dkrunal90.png" width="140" alt="Krunal Desai's GitHub avatar" />
+  # Krunal Desai
 
-  # Hi, I'm Krunal Desai
+  ### AI/ML Developer · Generative AI · Data Science
 
-  **AI/ML Developer · Data Scientist · Generative AI & Agent Systems**
+  **Building intelligent applications, agent systems, and data-driven products.**
 
-  I build practical AI applications, agent workflows, and data products — from data
-  and evaluation through APIs, integrations, and deployment.
+  I turn ideas into working software with Python, Azure AI, and Snowflake—from
+  prototyping and evaluation to APIs and deployment.
 
-  [![GitHub](https://img.shields.io/badge/GitHub-dkrunal90-181717?style=flat-square&logo=github)](https://github.com/dkrunal90)
-  ![Location](https://img.shields.io/badge/Atlanta%2C%20Georgia-USA-0A66C2?style=flat-square)
+  [![GitHub](https://img.shields.io/badge/GitHub-dkrunal90-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dkrunal90)
+  ![Atlanta, Georgia](https://img.shields.io/badge/Atlanta%2C%20Georgia-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
 
 ---
 
-## What I'm working on
+## Focus areas
 
-- AI agents, **Model Context Protocol (MCP)** integrations, and **RAG**
-- Evaluating AI systems with deterministic checks and LLM-as-judge workflows
-- Bringing AI and analytics together with Azure, Snowflake, and Python
+- **AI agents & integrations** — agent workflows, Model Context Protocol (MCP), and tool-enabled applications
+- **Generative AI** — retrieval-augmented generation (RAG) and grounded question answering
+- **AI quality & evaluation** — deterministic evaluation and LLM-as-judge workflows
+- **Applied data science** — machine learning, NLP, computer vision, and analytics
 
 ## Tech stack
 
@@ -42,34 +43,39 @@
 
 </div>
 
-**Also in my projects:** JavaScript, Pandas, NumPy, Hugging Face Transformers, FAISS,
+**Additional tools:** JavaScript, Pandas, NumPy, Hugging Face Transformers, FAISS,
 Streamlit, Azure AI Projects, Azure Developer CLI (`azd`), Prometheus, and OpenTelemetry.
 
 ## Featured projects
 
-| Project | What it does |
-| --- | --- |
-| [Amusement Park MCP](https://github.com/dkrunal90/park-mcp) | Connects Azure AI Foundry to Snowflake with identity mapping, role-based access control, and audit trails. |
-| [WFM Evaluation Framework](https://github.com/dkrunal90/wfm-evaluation) | Evaluates AI agents with deterministic checks for objective answers and LLM judging for subjective answers. |
-| [Financial Compliance RAG Copilot](https://github.com/dkrunal90/Financial-Compliance-RAG-Copilot-) | Explores policy Q&A with LlamaIndex, FAISS, Llama 3, entity extraction, and answer evaluation. |
+### [Amusement Park MCP](https://github.com/dkrunal90/park-mcp)
 
-### More machine-learning projects
+An MCP server that connects Azure AI Foundry to Snowflake, with identity mapping,
+role-based access control, and audit trails.
 
-[NLP Disaster Tweets](https://github.com/dkrunal90/NLP-Disaster-Tweets) ·
-[IMDB Review RNN](https://github.com/dkrunal90/RNN_IMDB_Movies_Review) ·
-[Pneumonia Classification](https://github.com/dkrunal90/Pneumonia-Classification-with-Computer-Vision) ·
-[Cervical Cancer Risk Prediction](https://github.com/dkrunal90/Cervical-Cancer-Risk-Prediction-Using-Machine-Learning)
+### [WFM Evaluation Framework](https://github.com/dkrunal90/wfm-evaluation)
 
-## GitHub activity
+A framework for evaluating AI agents with deterministic checks for objective
+questions and LLM judging for subjective responses.
 
-<div align="center">
+### [Financial Compliance RAG Copilot](https://github.com/dkrunal90/Financial-Compliance-RAG-Copilot-)
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dkrunal90&show_icons=true&hide_border=true&theme=transparent" alt="GitHub profile statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkrunal90&layout=compact&hide_border=true&theme=transparent" alt="Most used languages on GitHub" />
+A policy Q&A application using LlamaIndex, FAISS, and Llama 3, with named-entity
+recognition and answer evaluation.
 
-</div>
+## Machine learning & data science
+
+Explore applied work in [NLP](https://github.com/dkrunal90/NLP-Disaster-Tweets),
+[text classification](https://github.com/dkrunal90/RNN_IMDB_Movies_Review),
+[computer vision](https://github.com/dkrunal90/Pneumonia-Classification-with-Computer-Vision),
+and [predictive modeling](https://github.com/dkrunal90/Cervical-Cancer-Risk-Prediction-Using-Machine-Learning).
 
 ---
 
-Open to connecting and collaborating on applied AI, data products, and developer tools.
-Reach me here on [GitHub](https://github.com/dkrunal90).
+<div align="center">
+
+  **Interested in applied AI, agent systems, and data products?**
+
+  [Explore my projects on GitHub](https://github.com/dkrunal90)
+
+</div>
